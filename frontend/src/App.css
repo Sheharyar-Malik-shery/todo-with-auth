@@ -1,0 +1,20 @@
+.custom-input{
+    border:2px solid green;
+    width: 50%;
+    margin: auto;
+    overflow: hidden;
+    border-radius: 10px;
+    
+  }
+  .input{
+    width: 80%;
+    border: none;
+    outline: none;
+    background-color: #f3f4f6;
+  }
+  .btn{
+    width: 20%;
+    background-color: #ff4500 !important;
+    color: red;
+    border-radius: 0% !important;
+  }
